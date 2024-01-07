@@ -1,0 +1,6 @@
+[submodule "Kafka-Producer-Component-v1"]
+	path = Kafka-Producer-Component-v1
+	url = https://github.com/Neelesh-Janga/Kafka-Producer-Component-v1.git
+[submodule "Kafka-Consumer-Component-v1"]
+	path = Kafka-Consumer-Component-v1
+	url = https://github.com/Neelesh-Janga/Kafka-Consumer-Component-v1.git
